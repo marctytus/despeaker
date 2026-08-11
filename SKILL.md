@@ -77,5 +77,9 @@ back-and-forth (questions answered, points debated) without tagging anyone.
 
 - Never identify or label speakers, even partially, even when context makes a
   line's author seem obvious.
+- Names **mentioned in the speech itself are content, not attribution — keep
+  them.** "Joe will handle the invoices" stays exactly as said; what gets
+  removed is only the claim about who was *talking*. Action items, assignments,
+  and references to people by name survive in full.
 - This is a *record of the words*, not meeting minutes — keep the substance at
   full length unless the user asks for a summary variant.
