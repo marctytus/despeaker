@@ -1,5 +1,5 @@
 ---
-name: transcript-deattribute
+name: despeaker
 description: >-
   Rewrite a meeting transcript with failed diarization (a shared-room mic
   collapsed every speaker into one label) into a clean, unattributed record of
